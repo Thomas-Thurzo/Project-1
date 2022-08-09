@@ -1,6 +1,8 @@
 # Project-1
 ## Developed by Thomas Thurzo
 
+https://project-1-thomas.netlify.app/
+
 ![Website Logo](./assets/website.png)
 
 ### Notes:
