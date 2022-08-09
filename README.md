@@ -1,9 +1,25 @@
 # Project-1
-## Project 1 is done
+## Developed by Thomas Thurzo
 
-![GitHub Logo](/assets/website.png)
+![Website Logo](./assets/website.png)
 
-Project 1 is so far not yet responsive. I implemented erverthing
-with positions in CSS. Relativ, fixed, absolut etc.
+### Notes:
+
+Project 1 is so far not yet responsive. 
+
+
+### What I have learnt in this project:
+
+I learnt about positions in CSS. Relativ, fixec, absolut etc.
+
+
+### Time to finish the project:
+
+3-4 hours
+
+
+
+
+
 
 
